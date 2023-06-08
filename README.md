@@ -30,15 +30,33 @@ This repository contains all codes written during "Strivers SDE Sheet – Challe
 | 22 | 07.06.2023 | Longest Subarray Zero Sum | [C++](./Arrays/Longest-Subarray-Zero-Sum.cpp) |
 | 23 | 07.06.2023 | Count Subarrays with Given XOR | [C++](./Arrays/Count-Subarrays-with-Given-XOR.cpp) |
 | 24 | 07.06.2023 | Longest Substring Without Repeating Characters | [C++](./Arrays/Longest-Substring-Without-Repeating-Characters.cpp) |
+| 25 | 08.06.2023 | Three Sum | [C++](./Arrays/Three-Sum.cpp) |
+| 26 | 08.06.2023 | Remove Duplicates from Sorted Array | [C++](./Arrays/Remove-Duplicates-from-Sorted-Array.cpp) |
+| 27 | 08.06.2023 | Maximum Consecutive Ones | [C++](./Arrays/Maximum-Consecutive-Ones.cpp) |
+| 28 | 08.06.2023 | Trapping Rain Water | [C++](./Arrays/Trapping-Rain-Water.cpp) |
 
 ### Topic: Linked List
 | Index | Date | Problem Name | Solution |
 | ----- | ---- | ------------ | -------- |
-| 25 | 07.06.2023 | Reverse Linked List | [C++](./Linked-List/Reverse-Linked-List.cpp) |
-| 26 | 07.06.2023 | Middle of Linked List | [C++](./Linked-List/Middle-of-Linked-List.cpp) |
-| 27 | 07.06.2023 | Merge Two Sorted Linked Lists | [C++](./Linked-List/Merge-Two-Sorted-Linked-Lists.cpp) |
-| 28 | 07.06.2023 | Remove Kth Node from Last | [C++](./Linked-List/Remove-Kth-Node-from-Last.cpp) |
-| 29 | 07.06.2023 | Add Two Numbers as List | [C++](./Linked-List/Add-Two-Numbers-as-List.cpp) |
-| 30 | 07.06.2023 | Delete Node in a Linked List (Only Access to Node is Given) | [C++](./Linked-List/Delete-Node-in-a-Linked-List.cpp) |
+| 1 | 07.06.2023 | Reverse Linked List | [C++](./Linked-List/Reverse-Linked-List.cpp) |
+| 2 | 07.06.2023 | Middle of Linked List | [C++](./Linked-List/Middle-of-Linked-List.cpp) |
+| 3 | 07.06.2023 | Merge Two Sorted Linked Lists | [C++](./Linked-List/Merge-Two-Sorted-Linked-Lists.cpp) |
+| 4 | 07.06.2023 | Remove Kth Node from Last | [C++](./Linked-List/Remove-Kth-Node-from-Last.cpp) |
+| 5 | 07.06.2023 | Add Two Numbers as List | [C++](./Linked-List/Add-Two-Numbers-as-List.cpp) |
+| 6 | 07.06.2023 | Delete Node in a Linked List (Only Access to Node is Given) | [C++](./Linked-List/Delete-Node-in-a-Linked-List.cpp) |
+| 7 | 08.06.2023 | Intersection of Two Linked Lists | [C++](./Linked-List/Intersection-of-Two-Linked-Lists.cpp) |
+| 8 | 08.06.2023 | Cycle Detection in a Singly Linked List | [C++](./Linked-List/Cycle-Detection-in-a-Singly-Linked-List.cpp) |
+| 9 | 08.06.2023 | Reverse Nodes in k-Group | [C++](./Linked-List/Reverse-Nodes-in-k-Group.cpp) |
+| 10 | 08.06.2023 | Palindrome Linked List | [C++](./Linked-List/Palindrome-Linked-List.cpp) |
+| 11 | 08.06.2023 | First Node of Loop in a Linked List | [C++](./Linked-List/First-Node-of-Loop-in-a-Linked-List.cpp) |
+| 12 | 08.06.2023 | Flatten a Linked List | [C++](./Linked-List/Flatten-a-Linked-List.cpp) |
+| 13 | 08.06.2023 | Rotate a Linked List | [C++](./Linked-List/Rotate-a-Linked-List.cpp) |
+| 14 | 08.06.2023 | Copy List with Random Pointer | [C++](./Linked-List/Copy-List-with-Random-Pointer.cpp) |
+
+### Topic: Greedy Algorithms
+| Index | Date | Problem Name | Solution |
+| ----- | ---- | ------------ | -------- |
+| 1 | 08.06.2023 | Maximum Meetings | [C++](./Greedy-Algorithms/Maximum-Meetings.cpp) |
+| 2 | 08.06.2023 | Minimum Number of Platforms | [C++](./Greedy-Algorithms/Minimum-Number-of-Platforms.cpp) |
 
 -----------------------------------------
