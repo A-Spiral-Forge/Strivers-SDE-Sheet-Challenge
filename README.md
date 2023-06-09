@@ -58,5 +58,22 @@ This repository contains all codes written during "Strivers SDE Sheet – Challe
 | ----- | ---- | ------------ | -------- |
 | 1 | 08.06.2023 | Maximum Meetings | [C++](./Greedy-Algorithms/Maximum-Meetings.cpp) |
 | 2 | 08.06.2023 | Minimum Number of Platforms | [C++](./Greedy-Algorithms/Minimum-Number-of-Platforms.cpp) |
+| 3 | 09.06.2023 | Job Sequencing Problem | [C++](./Greedy-Algorithms/Job-Sequencing-Problem.cpp) |
+| 4 | 09.06.2023 | Fractional Knapsack Problem | [C++](./Greedy-Algorithms/Fractional-Knapsack-Problem.cpp) |
+| 5 | 09.06.2023 | Find Minimum Number of Coins | [C++](./Greedy-Algorithms/Find-Minimum-Number-of-Coins.cpp) |
+| 6 | 09.06.2023 | Maximum Activities | [C++](./Greedy-Algorithms/Maximum-Activities.cpp) |
+
+### Topic: Recursion and Backtracking
+| Index | Date | Problem Name | Solution |
+| ----- | ---- | ------------ | -------- |
+| 1 | 09.06.2023 | Subset Sum | [C++](./Recursion-and-Backtracking/Subset-Sum.cpp) |
+| 2 | 09.06.2023 | Subsets II | [C++](./Recursion-and-Backtracking/Subsets-II.cpp) |
+| 3 | 09.06.2023 | Subset Sum to K | [C++](./Recursion-and-Backtracking/Subset-Sum-to-K.cpp) |
+| 4 | 09.06.2023 | Combination Sum II | [C++](./Recursion-and-Backtracking/Combination-Sum-II.cpp) |
+| 5 | 09.06.2023 | Palindrome Partitioning | [C++](./Recursion-and-Backtracking/Palindrome-Partitioning.cpp) |
+| 6 | 09.06.2023 | Kth Permutation Sequence | [C++](./Recursion-and-Backtracking/Kth-Permutation-Sequence.cpp) |
+| 7 | 09.06.2023 | Print Permutations | [C++](./Recursion-and-Backtracking/Print-Permutations.cpp) |
+| 8 | 09.06.2023 | N Queens | [C++](./Recursion-and-Backtracking/N-Queens.cpp) |
+| 9 | 09.06.2023 | Valid Sudoku | [C++](./Recursion-and-Backtracking/Valid-Sudoku.cpp) |
 
 -----------------------------------------
