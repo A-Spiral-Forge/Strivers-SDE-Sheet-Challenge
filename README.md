@@ -75,5 +75,13 @@ This repository contains all codes written during "Strivers SDE Sheet – Challe
 | 7 | 09.06.2023 | Print Permutations | [C++](./Recursion-and-Backtracking/Print-Permutations.cpp) |
 | 8 | 09.06.2023 | N Queens | [C++](./Recursion-and-Backtracking/N-Queens.cpp) |
 | 9 | 09.06.2023 | Valid Sudoku | [C++](./Recursion-and-Backtracking/Valid-Sudoku.cpp) |
+| 10 | 10.06.2023 | M Coloring Problem | [C++](./Recursion-and-Backtracking/M-Coloring-Problem.cpp) |
+| 11 | 10.06.2023 | Rat in a Maze All Paths | [C++](./Recursion-and-Backtracking/Rat-in-a-Maze-All-Paths.cpp) |
+| 12 | 10.06.2023 | Word Break II | [C++](./Recursion-and-Backtracking/Word-Break-II.cpp) |
+
+### Topic: Binary Search
+| Index | Date | Problem Name | Solution |
+| ----- | ---- | ------------ | -------- |
+| 1 | 10.06.2023 | Find Nth Root of M | [C++](./Binary-Search/Find-Nth-Root-of-M.cpp) |
 
 -----------------------------------------
