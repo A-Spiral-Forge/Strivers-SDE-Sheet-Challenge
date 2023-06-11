@@ -83,5 +83,27 @@ This repository contains all codes written during "Strivers SDE Sheet – Challe
 | Index | Date | Problem Name | Solution |
 | ----- | ---- | ------------ | -------- |
 | 1 | 10.06.2023 | Find Nth Root of M | [C++](./Binary-Search/Find-Nth-Root-of-M.cpp) |
+| 2 | 11.06.2023 | Matrix Median | [C++](./Binary-Search/Matrix-Median.cpp) |
+| 3 | 11.06.2023 | Single Element in a Sorted Array | [C++](./Binary-Search/Single-Element-in-a-Sorted-Array.cpp) |
+| 4 | 11.06.2023 | Search in a Rotated Sorted Array | [C++](./Binary-Search/Search-in-a-Rotated-Sorted-Array.cpp) |
+| 5 | 11.06.2023 | Median of Two Sorted Arrays | [C++](./Binary-Search/Median-of-Two-Sorted-Arrays.cpp) |
+| 6 | 11.06.2023 | Kth Element of Two Sorted Arrays | [C++](./Binary-Search/Kth-Element-of-Two-Sorted-Arrays.cpp) |
+| 7 | 11.06.2023 | Allocate Books | [C++](./Binary-Search/Allocate-Books.cpp) |
+| 8 | 11.06.2023 | Chess Tournament | [C++](./Binary-Search/Chess-Tournament.cpp) |
+
+### Topic: Heaps
+| Index | Date | Problem Name | Solution |
+| ----- | ---- | ------------ | -------- |
+| 1 | 11.06.2023 | Min Heap | [C++](./Heaps/Min-Heap.cpp) |
+| 2 | 11.06.2023 | Kth Smallest and Largest Element in Array | [C++](./Heaps/Kth-Smallest-and-Largest-Element-in-Array.cpp) |
+| 3 | 11.06.2023 | K Max Sum Combinations | [C++](./Heaps/K-Max-Sum-Combinations.cpp) |
+| 4 | 11.06.2023 | Merge K Sorted Arrays | [C++](./Heaps/Merge-K-Sorted-Arrays.cpp) |
+| 5 | 11.06.2023 | K Most Frequent Elements | [C++](./Heaps/K-Most-Frequent-Elements.cpp) |
+| 6 | 11.06.2023 | Median of a Running Stream of Integers | [C++](./Heaps/Median-of-a-Running-Stream-of-Integers.cpp) |
+
+### Topic: Trie
+| Index | Date | Problem Name | Solution |
+| ----- | ---- | ------------ | -------- |
+| 1 | 11.06.2023 | Implement Trie | [C++](./Trie/Implement-Trie.cpp) |
 
 -----------------------------------------
