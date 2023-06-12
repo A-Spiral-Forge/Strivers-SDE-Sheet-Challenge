@@ -105,5 +105,28 @@ This repository contains all codes written during "Strivers SDE Sheet – Challe
 | Index | Date | Problem Name | Solution |
 | ----- | ---- | ------------ | -------- |
 | 1 | 11.06.2023 | Implement Trie | [C++](./Trie/Implement-Trie.cpp) |
+| 2 | 12.06.2023 | Implement Trie II | [C++](./Trie/Implement-Trie-II.cpp) |
+| 3 | 12.06.2023 | Complete String | [C++](./Trie/Complete-String.cpp) |
+| 4 | 12.06.2023 | Number of Distinct Substrings | [C++](./Trie/Number-of-Distinct-Substrings.cpp) |
+| 5 | 12.06.2023 | Maximum XOR of Two Numbers in an Array | [C++](./Trie/Maximum-XOR-of-Two-Numbers-in-an-Array.cpp) |
+| 6 | 12.06.2023 | Maximum XOR With an Element From Array | [C++](./Trie/Maximum-XOR-With-an-Element-From-Array.cpp) |
+
+### Topic: Bit Manipulation
+| Index | Date | Problem Name | Solution |
+| ----- | ---- | ------------ | -------- |
+| 1 | 12.06.2023 | Power Set | [C++](./Bit-Manipulation/Power-Set.cpp) |
+
+### Topic: Stacks and Queues
+| Index | Date | Problem Name | Solution |
+| ----- | ---- | ------------ | -------- |
+| 1 | 12.06.2023 | Implement Stack Using Array | [C++](./Stacks-and-Queues/Implement-Stack-Using-Array.cpp) |
+| 2 | 12.06.2023 | Implement Queue Using LL | [C++](./Stacks-and-Queues/Implement-Queue-Using-LL.cpp) |
+| 3 | 12.06.2023 | Implement Stack Using Queue | [C++](./Stacks-and-Queues/Implement-Stack-Using-Queue.cpp) |
+| 4 | 12.06.2023 | Implement Queue Using Stack | [C++](./Stacks-and-Queues/Implement-Queue-Using-Stack.cpp) |
+| 5 | 12.06.2023 | Valid Parentheses | [C++](./Stacks-and-Queues/Valid-Parentheses.cpp) |
+| 6 | 12.06.2023 | Next Greater Element | [C++](./Stacks-and-Queues/Next-Greater-Element.cpp) |
+| 7 | 12.06.2023 | Sort a Stack | [C++](./Stacks-and-Queues/Sort-a-Stack.cpp) |
+| 8 | 12.06.2023 | Next Smaller Element | [C++](./Stacks-and-Queues/Next-Smaller-Element.cpp) |
+| 9 | 12.06.2023 | LRU Cache (Using DLL and Hashmap) | [C++](./Stacks-and-Queues/LRU-Cache-Using-DLL.cpp) |
 
 -----------------------------------------
