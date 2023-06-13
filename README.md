@@ -128,5 +128,20 @@ This repository contains all codes written during "Strivers SDE Sheet – Challe
 | 7 | 12.06.2023 | Sort a Stack | [C++](./Stacks-and-Queues/Sort-a-Stack.cpp) |
 | 8 | 12.06.2023 | Next Smaller Element | [C++](./Stacks-and-Queues/Next-Smaller-Element.cpp) |
 | 9 | 12.06.2023 | LRU Cache (Using DLL and Hashmap) | [C++](./Stacks-and-Queues/LRU-Cache-Using-DLL.cpp) |
+| 10 | 13.06.2023 | Largest Rectangle in a Histogram | [C++](./Stacks-and-Queues/Largest-Rectangle-in-a-Histogram.cpp) |
+| 11 | 13.06.2023 | Maximum in Sliding Window of Size K | [C++](./Stacks-and-Queues/Maximum-in-Sliding-Window-of-Size-K.cpp) |
+| 12 | 13.06.2023 | Min Stack | [C++](./Stacks-and-Queues/Min-Stack.cpp) |
+| 13 | 13.06.2023 | Rotten Oranges (Using BFS Queue) | [C++](./Stacks-and-Queues/Rotten-Oranges.cpp) |
+| 14 | 13.06.2023 | Online Stock Span | [C++](./Stacks-and-Queues/Online-Stock-Span.cpp) |
+| 15 | 13.06.2023 | The Celebrity Problem | [C++](./Stacks-and-Queues/The-Celebrity-Problem.cpp) |
+
+### Topic: String
+| Index | Date | Problem Name | Solution |
+| ----- | ---- | ------------ | -------- |
+| 1 | 13.06.2023 | Reverse Words in a String | [C++](./String/Reverse-Words-in-a-String.cpp) |
+| 2 | 13.06.2023 | Longest Palindromic Substring (Two Pointer Approach) | [C++](./String/Longest-Palindromic-Substring-Two-Pointers.cpp) |
+| 3 | 13.06.2023 | Longest Palindromic Substring (DP Approach) | [C++](./String/Longest-Palindromic-Substring-DP.cpp) |
+| 4 | 13.06.2023 | Roman Numeral to Integer | [C++](./String/Roman-Numeral-to-Integer.cpp) |
+| 5 | 13.06.2023 | Implement ATOI | [C++]('./String/Implement-ATOI.cpp') |
 
 -----------------------------------------
