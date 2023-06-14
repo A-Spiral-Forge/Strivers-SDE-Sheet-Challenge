@@ -143,5 +143,25 @@ This repository contains all codes written during "Strivers SDE Sheet – Challe
 | 3 | 13.06.2023 | Longest Palindromic Substring (DP Approach) | [C++](./String/Longest-Palindromic-Substring-DP.cpp) |
 | 4 | 13.06.2023 | Roman Numeral to Integer | [C++](./String/Roman-Numeral-to-Integer.cpp) |
 | 5 | 13.06.2023 | Implement ATOI | [C++]('./String/Implement-ATOI.cpp') |
+| 6 | 14.06.2023 | Longest Common Prefix (Trie Approach) | [C++](./String/Longest-Common-Prefix-Trie.cpp) |
+| 7 | 14.06.2023 | Longest Common Prefix (Horizontal Scanning Approach) | [C++](./String/Longest-Common-Prefix-Horizontal-Scanning.cpp) |
+| 8 | 14.06.2023 | Longest Common Prefix (Binary Search Approach) | [C++](./String/Longest-Common-Prefix-Binary-Search.cpp) |
+| 9 | 14.06.2023 | Pattern Matching (Rabin Karp Algorithm) | [C++](./String/Pattern-Matching-Rabin-Karp.cpp) |
+| 10 | 14.06.2023 | Pattern Matching (Z Algorithm) | [C++](./String/Pattern-Matching-Z-Algorithm.cpp) |
+| 11 | 14.06.2023 | Pattern Matching (KMP Algorithm) | [C++](./String/Pattern-Matching-KMP-Algorithm.cpp) |
+| 12 | 14.06.2023 | Minimum Characters for Palindrome | [C++](./String/Minimum-Characters-for-Palindrome.cpp) |
+| 13 | 14.06.2023 | Check Permutation | [C++](./String/Check-Permutation.cpp) |
+| 14 | 14.06.2023 | Count and Say | [C++](./String/Count-and-Say.cpp) |
+| 15 | 14.06.2023 | Comapre Version Numbers | [C++](./String/Compare-Version-Numbers.cpp) |
+
+### Topic: Binary Tree
+| Index | Date | Problem Name | Solution |
+| ----- | ---- | ------------ | -------- |
+| 1 | 14.06.2023 | Inorder Traversal | [C++](./Binary-Tree/Inorder-Traversal.cpp) |
+| 2 | 14.06.2023 | Preorder Traversal | [C++](./Binary-Tree/Preorder-Traversal.cpp) |
+| 3 | 14.06.2023 | Postorder Traversal | [C++](./Binary-Tree/Postorder-Traversal.cpp) |
+| 4 | 14.06.2023 | Left View of Binary Tree | [C++](./Binary-Tree/Left-View-of-Binary-Tree.cpp) |
+| 5 | 14.06.2023 | Morris Inorder Traversal | [C++](./Binary-Tree/Morris-Inorder-Traversal.cpp) |
+| 6 | 14.06.2023 | Morris Preorder Traversal | [C++](./Binary-Tree/Morris-Preorder-Traversal.cpp) |
 
 -----------------------------------------
