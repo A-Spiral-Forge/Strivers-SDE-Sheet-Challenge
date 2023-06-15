@@ -163,5 +163,20 @@ This repository contains all codes written during "Strivers SDE Sheet – Challe
 | 4 | 14.06.2023 | Left View of Binary Tree | [C++](./Binary-Tree/Left-View-of-Binary-Tree.cpp) |
 | 5 | 14.06.2023 | Morris Inorder Traversal | [C++](./Binary-Tree/Morris-Inorder-Traversal.cpp) |
 | 6 | 14.06.2023 | Morris Preorder Traversal | [C++](./Binary-Tree/Morris-Preorder-Traversal.cpp) |
+| 7 | 15.06.2023 | Bottom View of Binary Tree | [C++](./Binary-Tree/Bottom-View-of-Binary-Tree.cpp) |
+| 8 | 15.06.2023 | Top View of Binary Tree | [C++](./Binary-Tree/Top-View-of-Binary-Tree.cpp) |
+| 9 | 15.06.2023 | Tree Traversals | [C++](./Binary-Tree/Tree-Traversals.cpp) |
+| 10 | 15.06.2023 | Vertical Order Traversal | [C++](./Binary-Tree/Vertical-Order-Traversal.cpp) |
+| 11 | 15.06.2023 | Path in a Tree | [C++](./Binary-Tree/Path-in-a-Tree.cpp) |
+| 12 | 15.06.2023 | Maximum Width in Binary Tree | [C++](./Binary-Tree/Maximum-Width-in-Binary-Tree.cpp) |
+| 13 | 15.06.2023 | Level Order Traversal | [C++](./Binary-Tree/Level-Order-Traversal.cpp) |
+| 14 | 15.06.2023 | Height of Binary Tree From Inorder and Level Order Traversal | [C++](./Binary-Tree/Height-of-Binary-Tree-From-Inorder-and-Level-Order-Traversal.cpp) |
+| 15 | 15.06.2023 | Diameter of Binary Tree | [C++](./Binary-Tree/Diameter-of-Binary-Tree.cpp) |
+| 16 | 15.06.2023 | Is Height Balanced Binary Tree | [C++](./Binary-Tree/Is-Height-Balanced-Binary-Tree.cpp) |
+| 17 | 15.06.2023 | LCA of Binary Tree | [C++](./Binary-Tree/LCA-of-Binary-Tree.cpp) |
+| 18 | 15.06.2023 | Check Identical Trees | [C++](./Binary-Tree/Check-Identical-Trees.cpp) |
+| 19 | 15.06.2023 | Binary Tree Zigzag Traversal | [C++](./Binary-Tree/Binary-Tree-Zigzag-Traversal.cpp) |
+| 20 | 15.06.2023 | Boundary Traversal of Binary Tree | [C++](./Binary-Tree/Boundary-Traversal-of-Binary-Tree.cpp) |
+| 21 | 15.06.2023 | Maximum Path Sum Between Two Leaves | [C++](./Binary-Tree/Maximum-Path-Sum-Between-Two-Leaves.cpp) |
 
 -----------------------------------------
