@@ -178,5 +178,21 @@ This repository contains all codes written during "Strivers SDE Sheet – Challe
 | 19 | 15.06.2023 | Binary Tree Zigzag Traversal | [C++](./Binary-Tree/Binary-Tree-Zigzag-Traversal.cpp) |
 | 20 | 15.06.2023 | Boundary Traversal of Binary Tree | [C++](./Binary-Tree/Boundary-Traversal-of-Binary-Tree.cpp) |
 | 21 | 15.06.2023 | Maximum Path Sum Between Two Leaves | [C++](./Binary-Tree/Maximum-Path-Sum-Between-Two-Leaves.cpp) |
+| 22 | 16.06.2023 | Contruct Binary Tree from Inorder and Preorder Traversal | [C++](./Binary-Tree/Contruct-Binary-Tree-from-Inorder-and-Preorder-Traversal.cpp) |
+| 23 | 16.06.2023 | Contruct Binary Tree from Inorder and Postorder Traversal | [C++](./Binary-Tree/Contruct-Binary-Tree-from-Inorder-and-Postorder-Traversal.cpp) |
+| 24 | 16.06.2023 | Symmetric Tree | [C++](./Binary-Tree/Symmetric-Tree.cpp) |
+| 25 | 16.06.2023 | Flatten Binary Tree to Linked List | [C++](./Binary-Tree/Flatten-Binary-Tree-to-Linked-List.cpp) |
+| 26 | 16.06.2023 | Children Sum Property | [C++](./Binary-Tree/Children-Sum-Property.cpp) |
+| 27 | 16.06.2023 | Connect Nodes at Same Level | [C++](./Binary-Tree/Connect-Nodes-at-Same-Level.cpp) |
+
+### Topic: Binary Search Tree
+| Index | Date | Problem Name | Solution |
+| ----- | ---- | ------------ | -------- |
+| 1 | 16.06.2023 | Search in BST | [C++](./Binary-Search-Tree/Search-in-BST.cpp) |
+| 2 | 16.06.2023 | Convert Sorted Array to BST | [C++](./Binary-Search-Tree/Convert-Sorted-Array-to-BST.cpp) |
+| 3 | 16.06.2023 | Partial BST | [C++](./Binary-Search-Tree/Partial-BST.cpp) |
+| 4 | 16.06.2023 | LCA of Two Nodes in a BST | [C++](./Binary-Search-Tree/LCA-of-Two-Nodes-in-a-BST.cpp) |
+| 5 | 16.06.2023 | Predecessor and Successor in BST | [C++](./Binary-Search-Tree/Predecessor-and-Successor-in-BST.cpp) |
+| 6 | 16.06.2023 | Floor in BST | [C++](./Binary-Search-Tree/Floor-in-BST.cpp) |
 
 -----------------------------------------
