@@ -100,6 +100,7 @@ This repository contains all codes written during "Strivers SDE Sheet – Challe
 | 4 | 11.06.2023 | Merge K Sorted Arrays | [C++](./Heaps/Merge-K-Sorted-Arrays.cpp) |
 | 5 | 11.06.2023 | K Most Frequent Elements | [C++](./Heaps/K-Most-Frequent-Elements.cpp) |
 | 6 | 11.06.2023 | Median of a Running Stream of Integers | [C++](./Heaps/Median-of-a-Running-Stream-of-Integers.cpp) |
+| 7 | 11.06.2023 | Meadian in a Stream | [C++](./Heaps/Median-in-a-Stream.cpp) |
 
 ### Topic: Trie
 | Index | Date | Problem Name | Solution |
@@ -184,6 +185,8 @@ This repository contains all codes written during "Strivers SDE Sheet – Challe
 | 25 | 16.06.2023 | Flatten Binary Tree to Linked List | [C++](./Binary-Tree/Flatten-Binary-Tree-to-Linked-List.cpp) |
 | 26 | 16.06.2023 | Children Sum Property | [C++](./Binary-Tree/Children-Sum-Property.cpp) |
 | 27 | 16.06.2023 | Connect Nodes at Same Level | [C++](./Binary-Tree/Connect-Nodes-at-Same-Level.cpp) |
+| 28 | 17.06.2023 | Serialize and Deserialize Binary Tree | [C++](./Binary-Search-Tree/Serialize-and-Deserialize-Binary-Tree.cpp) |
+| 29 | 17.06.2023 | Convert Binary Tree to DLL | [C++](./Binary-Tree/Convert-Binary-Tree-to-DLL.cpp) |
 
 ### Topic: Binary Search Tree
 | Index | Date | Problem Name | Solution |
@@ -194,5 +197,12 @@ This repository contains all codes written during "Strivers SDE Sheet – Challe
 | 4 | 16.06.2023 | LCA of Two Nodes in a BST | [C++](./Binary-Search-Tree/LCA-of-Two-Nodes-in-a-BST.cpp) |
 | 5 | 16.06.2023 | Predecessor and Successor in BST | [C++](./Binary-Search-Tree/Predecessor-and-Successor-in-BST.cpp) |
 | 6 | 16.06.2023 | Floor in BST | [C++](./Binary-Search-Tree/Floor-in-BST.cpp) |
+| 7 | 17.06.2023 | Construct BST from Preorder Traversal | [C++](./Binary-Search-Tree/Construct-BST-from-Preorder-Traversal.cpp) |
+| 8 | 17.06.2023 | Ceil from BST | [C++](./Binary-Search-Tree/Ceil-from-BST.cpp) |
+| 9 | 17.06.2023 | Kth Largest Element in BST | [C++](./Binary-Search-Tree/Kth-Largest-Element-in-BST.cpp) |
+| 10 | 17.06.2023 | Kth Smallest Element in BST | [C++](./Binary-Search-Tree/Kth-Smallest-Element-in-BST.cpp) |
+| 11 | 17.06.2023 | BST Iterator | [C++](./Binary-Search-Tree/BST-Iterator.cpp) |
+| 12 | 17.06.2023 | Pair Sum in BST | [C++](./Binary-Search-Tree/Pair-Sum-in-BST.cpp) |
+| 13 | 17.06.2023 | Size of Largest BST in Binary Tree | [C++](./Binary-Search-Tree/Size-of-Largest-BST-in-Binary-Tree.cpp) |
 
 -----------------------------------------

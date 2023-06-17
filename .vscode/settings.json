@@ -12,6 +12,11 @@
         "regex": "cpp",
         "utility": "cpp",
         "valarray": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "barrier": "cpp",
+        "random": "cpp",
+        "latch": "cpp",
+        "limits": "cpp",
+        "semaphore": "cpp"
     }
 }
