@@ -100,7 +100,9 @@ This repository contains all codes written during "Strivers SDE Sheet – Challe
 | 4 | 11.06.2023 | Merge K Sorted Arrays | [C++](./Heaps/Merge-K-Sorted-Arrays.cpp) |
 | 5 | 11.06.2023 | K Most Frequent Elements | [C++](./Heaps/K-Most-Frequent-Elements.cpp) |
 | 6 | 11.06.2023 | Median of a Running Stream of Integers | [C++](./Heaps/Median-of-a-Running-Stream-of-Integers.cpp) |
-| 7 | 11.06.2023 | Meadian in a Stream | [C++](./Heaps/Median-in-a-Stream.cpp) |
+| 7 | 17.06.2023 | Meadian in a Stream | [C++](./Heaps/Median-in-a-Stream.cpp) |
+| 8 | 18.06.2023 | Kth Largest Element in a Stream | [C++](./Heaps/Kth-Largest-Element-in-a-Stream.cpp) |
+| 9 | 18.06.2023 | Kth Largest Element in an Unsorted Array | [C++](./Heaps/Kth-Largest-Element-in-an-Unsorted-Array.cpp) |
 
 ### Topic: Trie
 | Index | Date | Problem Name | Solution |
@@ -204,5 +206,20 @@ This repository contains all codes written during "Strivers SDE Sheet – Challe
 | 11 | 17.06.2023 | BST Iterator | [C++](./Binary-Search-Tree/BST-Iterator.cpp) |
 | 12 | 17.06.2023 | Pair Sum in BST | [C++](./Binary-Search-Tree/Pair-Sum-in-BST.cpp) |
 | 13 | 17.06.2023 | Size of Largest BST in Binary Tree | [C++](./Binary-Search-Tree/Size-of-Largest-BST-in-Binary-Tree.cpp) |
+
+### Topic: Hashing
+| Index | Date | Problem Name | Solution |
+| ----- | ---- | ------------ | -------- |
+| 1 | 18.06.2023 | Count Distinct Elements in Every K Size Window | [C++](./Hashing/Count-Distinct-Elements-in-Every-K-Size-Window.cpp) |
+
+### Topic: Graphs
+| Index | Date | Problem Name | Solution |
+| ----- | ---- | ------------ | -------- |
+| 1 | 18.06.2023 | Flood Fill | [C++](./Graphs/Flood-Fill.cpp) |
+| 2 | 18.06.2023 | Clone Graph | [C++](./Graphs/Clone-Graph.cpp) |
+| 3 | 18.06.2023 | DFS Traversal | [C++](./Graphs/DFS-Traversal.cpp) |
+| 4 | 18.06.2023 | BFS Traversal | [C++](./Graphs/BFS-Traversal.cpp) |
+| 5 | 18.06.2023 | Detect Cycle in Undirected Graph | [C++](./Graphs/Detect-Cycle-in-Undirected-Graph.cpp) |
+| 6 | 18.06.2023 | Detect Cycle in Directed Graph (DFS Approach) | [C++](./Graphs/Detect-Cycle-in-Directed-Graph-DFS.cpp) |
 
 -----------------------------------------
