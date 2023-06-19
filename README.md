@@ -221,5 +221,10 @@ This repository contains all codes written during "Strivers SDE Sheet – Challe
 | 4 | 18.06.2023 | BFS Traversal | [C++](./Graphs/BFS-Traversal.cpp) |
 | 5 | 18.06.2023 | Detect Cycle in Undirected Graph | [C++](./Graphs/Detect-Cycle-in-Undirected-Graph.cpp) |
 | 6 | 18.06.2023 | Detect Cycle in Directed Graph (DFS Approach) | [C++](./Graphs/Detect-Cycle-in-Directed-Graph-DFS.cpp) |
+| 7 | 19.06.2023 | Detect Cycle in Directed Graph (BFS Approach) | [C++](./Graphs/Detect-Cycle-in-Directed-Graph-BFS.cpp) |
+| 8 | 19.06.2023 | Topological Sort (DFS Approach) | [C++](./Graphs/Topological-Sort-DFS.cpp) |
+| 9 | 19.06.2023 | Topological Sort (BFS Approach) | [C++](./Graphs/Topological-Sort-BFS.cpp) |
+| 10 | 19.06.2023 | Find Number of Islands | [C++](./Graphs/Find-Number-of-Islands.cpp) |
+| 11 | 19.06.2023 | Check Bipartite Graph | [C++](./Graphs/Check-Bipartite-Graph.cpp) |
 
 -----------------------------------------
