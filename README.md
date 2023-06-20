@@ -226,5 +226,10 @@ This repository contains all codes written during "Strivers SDE Sheet – Challe
 | 9 | 19.06.2023 | Topological Sort (BFS Approach) | [C++](./Graphs/Topological-Sort-BFS.cpp) |
 | 10 | 19.06.2023 | Find Number of Islands | [C++](./Graphs/Find-Number-of-Islands.cpp) |
 | 11 | 19.06.2023 | Check Bipartite Graph | [C++](./Graphs/Check-Bipartite-Graph.cpp) |
+| 12 | 20.06.2023 | Dijkstra's Shortest Path (Using Priority Queue) | [C++](./Graphs/Dijkstras-Shortest-Path-Priority-Queue.cpp) |
+| 13 | 20.06.2023 | Dijkstra's Shortest Path (Using Set) | [C++](./Graphs/Dijkstras-Shortest-Path-Set.cpp) |
+| 14 | 20.06.2023 | Bellman Ford Algorithm | [C++](./Graphs/Bellman-Ford-Algorithm.cpp) |
+| 15 | 20.06.2023 | Floyd Warshall Algorithm | [C++](./Graphs/Floyd-Warshall-Algorithm.cpp) |
+| 16 | 20.06.2023 | Prim's MST Algorithm | [C++](./Graphs/Prims-MST-Algorithm.cpp) |
 
 -----------------------------------------
