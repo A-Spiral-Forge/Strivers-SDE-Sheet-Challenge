@@ -231,5 +231,16 @@ This repository contains all codes written during "Strivers SDE Sheet – Challe
 | 14 | 20.06.2023 | Bellman Ford Algorithm | [C++](./Graphs/Bellman-Ford-Algorithm.cpp) |
 | 15 | 20.06.2023 | Floyd Warshall Algorithm | [C++](./Graphs/Floyd-Warshall-Algorithm.cpp) |
 | 16 | 20.06.2023 | Prim's MST Algorithm | [C++](./Graphs/Prims-MST-Algorithm.cpp) |
+| 17 | 21.06.2023 | Kruskal's MST Algorithm | [C++](./Graphs/Kruskals-MST-Algorithm.cpp) |
+| 18 | 21.06.2023 | Strongly Connected Components (Kosaraju's Algorithm) | [C++](./Graphs/Strongly-Connected-Components-Kosarajus-Algorithm.cpp) |
+
+### Topic: Dynamic Programming
+| Index | Date | Problem Name | Solution |
+| ----- | ---- | ------------ | -------- |
+| 1 | 21.06.2023 | Maximum Product Subarray | [C++](./Dynamic-Programming/Maximum-Product-Subarray.cpp) |
+| 2 | 21.06.2023 | Longest Increasing Subsequence | [C++](./Dynamic-Programming/Longest-Increasing-Subsequence.cpp) |
+| 3 | 21.06.2023 | Longest Common Subsequence | [C++](./Dynamic-Programming/Longest-Common-Subsequence.cpp) |
+| 4 | 21.06.2023 | 0 - 1 Knapsack Problem | [C++](./Dynamic-Programming/0-1-Knapsack-Problem.cpp) |
+| 5 | 21.06.2023 | Edit Distance | [C++](./Dynamic-Programming/Edit-Distance.cpp) |
 
 -----------------------------------------
