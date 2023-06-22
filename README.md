@@ -137,6 +137,7 @@ This repository contains all codes written during "Strivers SDE Sheet – Challe
 | 13 | 13.06.2023 | Rotten Oranges (Using BFS Queue) | [C++](./Stacks-and-Queues/Rotten-Oranges.cpp) |
 | 14 | 13.06.2023 | Online Stock Span | [C++](./Stacks-and-Queues/Online-Stock-Span.cpp) |
 | 15 | 13.06.2023 | The Celebrity Problem | [C++](./Stacks-and-Queues/The-Celebrity-Problem.cpp) |
+| 16 | 22.06.2023 | Maximum of Minimum for Every Window Size | [C++](./Stacks-and-Queues/Maximum-of-Minimum-for-Every-Window-Size.cpp) |
 
 ### Topic: String
 | Index | Date | Problem Name | Solution |
@@ -242,5 +243,13 @@ This repository contains all codes written during "Strivers SDE Sheet – Challe
 | 3 | 21.06.2023 | Longest Common Subsequence | [C++](./Dynamic-Programming/Longest-Common-Subsequence.cpp) |
 | 4 | 21.06.2023 | 0 - 1 Knapsack Problem | [C++](./Dynamic-Programming/0-1-Knapsack-Problem.cpp) |
 | 5 | 21.06.2023 | Edit Distance | [C++](./Dynamic-Programming/Edit-Distance.cpp) |
+| 6 | 22.06.2023 | Maximum Sum Increasing Subsequence | [C++](./Dynamic-Programming/Maximum-Sum-Increasing-Subsequence.cpp) |
+| 7 | 22.06.2023 | Count Distinct Ways to Reach Nth Stairs (Matrix Exponentiation) | [C++](./Dynamic-Programming/Count-Distinct-Ways-to-Reach-Nth-Stairs-Matrix-Exponentiation.cpp) |
+| 8 | 22.06.2023 | Minimum Path Sum | [C++](./Dynamic-Programming/Minimum-Path-Sum.cpp) |
+| 9 | 22.06.2023 | Ways to Make Coin Change | [C++](./Dynamic-Programming/Ways-to-Make-Coin-Change.cpp) |
+| 10 | 22.06.2023 | Subset Sum Equal to K | [C++](./Dynamic-Programming/Subset-Sum-Equal-to-K.cpp) |
+| 11 | 22.06.2023 | Rod Cutting Problem | [C++](./Dynamic-Programming/Rod-Cutting-Problem.cpp) |
+| 12 | 22.06.2023 | Cut Logs | [C++](./Dynamic-Programming/Cut-Logs.cpp) |
+| 13 | 22.06.2023 | Word Break | [C++](./Dynamic-Programming/Word-Break.cpp) |
 
 -----------------------------------------
