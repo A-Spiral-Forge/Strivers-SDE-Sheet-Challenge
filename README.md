@@ -138,6 +138,7 @@ This repository contains all codes written during "Strivers SDE Sheet – Challe
 | 14 | 13.06.2023 | Online Stock Span | [C++](./Stacks-and-Queues/Online-Stock-Span.cpp) |
 | 15 | 13.06.2023 | The Celebrity Problem | [C++](./Stacks-and-Queues/The-Celebrity-Problem.cpp) |
 | 16 | 22.06.2023 | Maximum of Minimum for Every Window Size | [C++](./Stacks-and-Queues/Maximum-of-Minimum-for-Every-Window-Size.cpp) |
+| 17 | 23.06.2023 | LFU Cache (Using DLL and Hashmap) | [C++](./Stacks-and-Queues/LFU-Cache-Using-DLL.cpp) |
 
 ### Topic: String
 | Index | Date | Problem Name | Solution |
@@ -190,6 +191,7 @@ This repository contains all codes written during "Strivers SDE Sheet – Challe
 | 27 | 16.06.2023 | Connect Nodes at Same Level | [C++](./Binary-Tree/Connect-Nodes-at-Same-Level.cpp) |
 | 28 | 17.06.2023 | Serialize and Deserialize Binary Tree | [C++](./Binary-Search-Tree/Serialize-and-Deserialize-Binary-Tree.cpp) |
 | 29 | 17.06.2023 | Convert Binary Tree to DLL | [C++](./Binary-Tree/Convert-Binary-Tree-to-DLL.cpp) |
+| 30 | 23.06.2023 | Invert a Binary Tree | [C++](./Binary-Tree/Invert-a-Binary-Tree.cpp) |
 
 ### Topic: Binary Search Tree
 | Index | Date | Problem Name | Solution |
@@ -251,5 +253,7 @@ This repository contains all codes written during "Strivers SDE Sheet – Challe
 | 11 | 22.06.2023 | Rod Cutting Problem | [C++](./Dynamic-Programming/Rod-Cutting-Problem.cpp) |
 | 12 | 22.06.2023 | Cut Logs | [C++](./Dynamic-Programming/Cut-Logs.cpp) |
 | 13 | 22.06.2023 | Word Break | [C++](./Dynamic-Programming/Word-Break.cpp) |
+| 14 | 23.06.2023 | Palindrome Partitioning II | [C++](./Dynamic-Programming/Palindrome-Partitioning-II.cpp) |
+| 15 | 23.06.2023 | Matrix Chain Multiplication | [C++](./Dynamic-Programming/Matrix-Chain-Multiplication.cpp) |
 
 -----------------------------------------
